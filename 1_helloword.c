@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-
-    printf("Hello Word\n");
+    printf("Hello World\n");
+    printf("Acentuação éééé");
     system("Pause");
     return 0;
 }
